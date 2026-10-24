@@ -1,0 +1,14 @@
+TimeCreated,EventID,TargetUserName,IpAddress,ServiceName,TicketEncryptionType,LogonType
+2026-10-24 09:40:12,4624,PRIYA.SHARMA,10.10.10.20,-,-,2
+2026-10-24 10:31:00,4625,administrator,10.10.10.30,-,-,3
+2026-10-24 10:31:03,4625,administrator,10.10.10.30,-,-,3
+2026-10-24 10:31:06,4625,administrator,10.10.10.30,-,-,3
+2026-10-24 10:31:09,4625,sqladmin,10.10.10.30,-,-,3
+2026-10-24 10:31:12,4625,sqladmin,10.10.10.30,-,-,3
+2026-10-24 10:31:16,4625,svc_sql,10.10.10.30,-,-,3
+2026-10-24 11:05:22,4769,jack.wilson,10.10.10.20,MSSQLSvc/sql01.purple.internal:1433,0x17,-
+2026-10-24 11:48:03,4769,jack.wilson,10.10.10.20,MSSQLSvc/sql01.purple.internal:1433,0x12,-
+2026-10-24 11:48:05,4769,jack.wilson,10.10.10.20,HTTP/web01.purple.internal,0x12,-
+2026-10-24 11:48:08,4769,jack.wilson,10.10.10.20,CIFS/fs01.purple.internal,0x12,-
+2026-10-24 11:48:11,4769,jack.wilson,10.10.10.20,LDAP/dc01.purple.internal,0x12,-
+2026-10-24 12:15:40,4624,deploy,10.10.10.20,-,-,2
