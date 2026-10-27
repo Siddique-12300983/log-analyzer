@@ -137,6 +137,21 @@ samples/        example logs
 tests/          pytest suite
 ```
 
+## Related repos
+
+- [attack-coverage-map](https://github.com/Siddique-12300983/attack-coverage-map) reads this repo and reports which ATT&CK techniques my detections actually cover, and where the gaps are. [Live heatmap](https://siddique-12300983.github.io/attack-coverage-map/)
+- [persistwatch](https://github.com/Siddique-12300983/persistwatch) hunts Linux persistence in systemd units and timers
+- [sigma-detection-rules](https://github.com/Siddique-12300983/sigma-detection-rules) the Sigma rules, mapped to ATT&CK
+- [purple-team-journey](https://github.com/Siddique-12300983/purple-team-journey) the AD lab all of this came out of
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Built by **ruxchipher** (Md Abu Bakar Siddique), cyber security student working
+toward a purple team role.
+[ruxchipher.com](https://ruxchipher.com) ·
+[GitHub](https://github.com/Siddique-12300983) ·
+[LinkedIn](https://linkedin.com/in/siddiqueabu)
